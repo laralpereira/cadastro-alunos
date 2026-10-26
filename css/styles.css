@@ -1,0 +1,59 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(186, 212, 255);
+}
+
+.dados{
+    width: 400px;
+    background-color: rgb(243, 243, 226);
+    margin: 30px auto;
+    padding: 20px;
+    border: 1px solid rgb(8, 8, 8);
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+    color: rgb(46, 46, 87);
+}
+
+input{
+    width: 90%;
+    margin-bottom: 10px;
+    padding: 8px;
+}
+
+#cadastrar{
+    width: 95%;
+    padding: 10px;
+    background-color: rgb(46, 46, 87);
+    color: rgb(243, 243, 226);
+    font-weight: bold;
+    border: solid 1px black;
+    font-size: 20px;
+}
+
+#resultado{
+    width: 90%;
+    margin-top: 15px;
+    padding: 10px;
+    border: solid 1px rgb(84, 162, 162);
+    display: none;
+}
+
+.descricao{
+    text-align: center;
+    color: black;
+}
+
+#novoAluno{
+    width: 95%;
+    padding: 10px;
+    background-color: rgb(139, 189, 150);
+    color: rgb(243, 243, 226);
+    font-weight: bold;
+    border: solid 1px black;
+    font-size: 20px;
+    display: none;
+}
+
